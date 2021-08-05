@@ -20,10 +20,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/shubhankar-rai-428215127/]
-
-
-
 <!-- PROJECT LOGO -->
 
 <h3 align="center">QR Code Generator</h3>
